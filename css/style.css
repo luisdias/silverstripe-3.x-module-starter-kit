@@ -1,0 +1,1 @@
+/* Silverstripe 3.x Module Starter Kit */
